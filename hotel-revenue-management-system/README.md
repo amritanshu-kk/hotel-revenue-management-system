@@ -14,7 +14,7 @@ ___
 This is a project that’s been on my mind since the day I started learning Python*. I’ve spent quite a bit of time throughout my academic using hotel Revenue Management systems, and was always curious about how they worked. So I built one.
 
 
-For an in-depth description of the project, take a look at my blog post.
+For an in-depth description of the project, take a look at my blog post
 
 ___
 ## Tech Stack
