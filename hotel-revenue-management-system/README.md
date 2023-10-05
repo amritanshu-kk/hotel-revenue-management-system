@@ -1,6 +1,6 @@
 # Building a Hotel Revenue Management (Rate Recommender) System from Scratch
 
-By Amritanshu Verma, 2022 University Graduate
+By Amritanshu Kumar Verma, 2022 University Graduate
 
 Project : Passion Project
 
